@@ -1,10 +1,13 @@
+<meta charset="utf-8"> 
+
 ---
 title: Revealing the Social Aspects of Design Decay
+layout: post
 ---
 
 # Authors
 
-
+Caio Barbosa, Anderson Uchôa, Filipe Falcão, Hyago Brito, Guilherme Amaral, Daniel Coutinho, Alessandro Garcia, Baldoino Fonseca, Maarcio Ribeiro, Vinicius Soares and Leonardo Souza
 
 # Abtract
 
@@ -14,37 +17,37 @@ The pull-based development model, popularized by social coding environments like
 
 | File         | Description       | Link     |
 |:-------------|:------------------|:---------|
-| Design Symptoms Description | DesignateTool and Symptoms Descriptions | [Download](https://github.com/sbes206642/sbes206642.github.io/master/description_and_detection_mechanisms.zip) |
+| Design Symptoms Description | DesignateTool and Symptoms Descriptions | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/description_and_detection_mechanisms.zip) |
 
 # RQ1: Are social metrics related to design decay?
 
 | File         | Description       | Link     |
 |:-------------|:------------------|:---------|
-| Density | High Level Smells | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/design_changed/design_change_on_density_high_level_smells.rar) |
-| Density | Low Level Smells   | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/design_changed/design_change_on_density_low_level_smells.rar) |
-| Diversity           | High Level Smells      | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/design_changed/design_change_on_diversity_high_level_smells.rar) |
-| Diversity           | Low Level Smells | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/design_changed/design_change_on_diversity_low_level_smells.rar) |
-| Script for Wilcoxon Analysis   | - | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/wilcoxon_analysis.R) |
+| Density | High Level Smells | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/design_changed/design_change_on_density_high_level_smells.rar) |
+| Density | Low Level Smells   | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/design_changed/design_change_on_density_low_level_smells.rar) |
+| Diversity           | High Level Smells      | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/design_changed/design_change_on_diversity_high_level_smells.rar) |
+| Diversity           | Low Level Smells | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/design_changed/design_change_on_diversity_low_level_smells.rar) |
+| Script for Wilcoxon Analysis   | - | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/wilcoxon_analysis.R) |
 
 # Data for RQ2 and RQ3
 
 | File         | Link     |
 |:-------------|:---------|
-| Design Decay per Pull Request | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/design_decay_per_pull_request.rar) |
-| Pull Request Decay Classification | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/pull_request_decay_classification.rar) |
-| Only Social Metrics | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/only_metrics.rar) |
-| Metrics with Decay | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/metrics_with_decay.rar) |
-| Script for Multiple Logistic Regression Analysis | [Download](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/multiple_regression_R.rar) |
+| Design Decay per Pull Request | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/design_decay_per_pull_request.rar) |
+| Pull Request Decay Classification | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/pull_request_decay_classification.rar) |
+| Only Social Metrics | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/only_metrics.rar) |
+| Metrics with Decay | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/metrics_with_decay.rar) |
+| Script for Multiple Logistic Regression Analysis | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/multiple_regression_R.rar) |
 
 
 # RQ2: To what extent the communication dynamics influence the design decay?
 
-![RQ2](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/rq2.png)
+![RQ2](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/rq2.png)
 
 # RQ3: To what extent the discussion content influence the design decay?
 
-![RQ3](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/rq3.png)
+![RQ3](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/rq3.png)
 
 # Model with Both Social Aspects
 
-![both](https://raw.githubusercontent.com/sbes206642/sbes206642.github.io/master/all_data_tabl.png)
+![both](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/all_data_tabl.png)
