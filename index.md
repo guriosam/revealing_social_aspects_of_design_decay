@@ -1,5 +1,3 @@
-<meta charset="utf-8"> 
-
 ---
 title: Revealing the Social Aspects of Design Decay
 layout: post
