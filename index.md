@@ -1,3 +1,7 @@
+---
+title: Revealing the Social Aspects of Design Decay
+---
+
 # Authors
 
 Caio Barbosa, Anderson Uchôa, Filipe Falcão, Hyago Brito, Guilherme Amaral, Daniel Coutinho, Alessandro Garcia, Baldoino Fonseca, Maarcio Ribeiro, Vinicius Soares and Leonardo Souza
