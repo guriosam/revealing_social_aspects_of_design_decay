@@ -36,6 +36,19 @@ The pull-based development model, popularized by social coding environments like
 | Metrics with Decay | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/metrics_with_decay.rar) |
 | Script for Multiple Logistic Regression Analysis | [Download](https://raw.githubusercontent.com/guriosam/revealing_social_aspects_of_design_decay/master/multiple_regression_R.rar) |
 
+# User Classification Method
+
+In order classify the developers on Users, Contributors, Core Devs, Employees and Temporaries we used the GitHub API tag [author_association](https://docs.github.com/en/graphql/reference/enums#commentauthorassociation).
+
+We classified each developer considering the following:
+
+| Classification | Tags | 
+|:---------------|:-----|
+| User           | FIRST_TIMER, FIRST_TIME_CONTRIBUTOR, NONE |
+| Contributor    | CONTRIBUTOR, COLLABORATOR |
+| Core Developer | MEMBER, OWNER |
+| Temporary | FIRST_TIMER, FIRST_TIME_CONTRIBUTOR, NONE, CONTRIBUTOR |
+| Employee | COLLABORATOR, MEMBER, OWNER |
 
 # RQ2: To what extent the communication dynamics influence the design decay?
 
